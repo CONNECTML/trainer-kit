@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name="decloud-trainer-kit",
     version="0.1.0",
-    description="DECLOUD Trainer Kit - Train models and earn rewards",
-    author="DECLOUD Team",
+    description="DECONNECT Trainer Kit - Train models and earn rewards",
+    author="DECONNECT Team",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[
@@ -22,3 +22,4 @@ setup(
         "": ["idl.json"],
     },
 )
+
