@@ -1,10 +1,10 @@
 # CONNECTML Trainer Kit
 
-Earn cryptocurrency rewards by contributing your compute power to train AI models on the DECONNECT decentralized network.
+Earn cryptocurrency rewards by contributing your compute power to train AI models on the CONNECTML decentralized network.
 
 ## Overview
 
-DECONNECT Trainer Kit allows you to:
+CONNECTML Trainer Kit allows you to:
 - **Earn SOL** by training machine learning models
 - **Choose what to train** with flexible dataset filters and presets
 - **Run automatically** with daemon mode that finds and joins rounds
