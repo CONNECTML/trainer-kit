@@ -1,4 +1,4 @@
-# DECONNECT Trainer Kit
+# CONNECTML Trainer Kit
 
 Earn cryptocurrency rewards by contributing your compute power to train AI models on the DECONNECT decentralized network.
 
